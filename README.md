@@ -2,7 +2,7 @@ InspectAI - Monitoramento Operacional e Telemetria Inteligente
 
 Ecossistema integrado de Internet das Coisas (IoT), visão computacional e backend em nuvem para segurança ocupacional e prevenção proativa de acidentes em ambientes industriais.
 
----
+
 
  Visão Geral
 
@@ -26,7 +26,7 @@ Visão Computacional (Vision AI): Inferência com modelos YOLOv8 (`.pt` e `.onnx
 3. Painel de Controle (Dashboard)
 * Central de monitoramento em tempo real com alertas visuais imediatos em caso de quedas mecânicas ou anomalias biométricas.
 
----
+
 
 Como Executar
 
